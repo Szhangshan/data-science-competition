@@ -1,6 +1,6 @@
 ## [真实场景篡改图像检测挑战赛](https://tianchi.aliyun.com/competition/entrance/531945/introduction?spm=5176.12281957.1004.2.3a4a3eafjz41ev&lang=en-us)
 
-### 
+### 111
 - 将数据解压到../data/目录下
 - python process.py制作train/valid
 - python train.py 训练模型
